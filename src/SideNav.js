@@ -1,16 +1,22 @@
 import React from "react";
 import "./App.css";
+import {
+   BrowserRouter as Router,
+   Switch,
+   Route,
+   Link,
+   useHistory,
+ } from "react-router-dom";
 
 
 
-const SideNav = (props) => {
+export default function SideNav(){
 return (
 <div className="sidenav">
-   <a className="link">Home</a>
-   <a className="link">Recipe 01</a>
-   <a className="link">Recipe 02</a>
-   <a className="link">Recipe 03</a>
+   <Link to="/" className="link">Home</Link>
+   <Link to="/recipe1" className="link">Recipe 01</Link>
+   <Link to="/recipe2" className="link">Recipe 02</Link>
+   <Link to="/recipe3" className="link">Recipe 03</Link>
 </div>
  );
 };
-export default SideNav; 

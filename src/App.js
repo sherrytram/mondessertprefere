@@ -3,8 +3,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
-  useHistory
+  useHistory,
 } from "react-router-dom";
 import SideNav from './SideNav';
 import Recipe1 from './recipe1';
@@ -40,9 +39,9 @@ function Home() {
         </div>
         </div>
         <div className="welcomeimages">
-        <img className="homeimages" src="https://i.pinimg.com/originals/45/cd/50/45cd500e59a73630fe6e2f4b7f89a1bf.jpg"/>
-        <img className="homeimages" src="https://i.pinimg.com/564x/4f/96/ee/4f96ee7011d5eb459a6dacb49c5f09aa.jpg"/>
-        <img className="homeimages" src="https://data.whicdn.com/images/317268829/original.jpg"/>
+        <img className="homeimages" src="https://i.pinimg.com/originals/45/cd/50/45cd500e59a73630fe6e2f4b7f89a1bf.jpg" alt="Coffee Macarons"/>
+        <img className="homeimages" src="https://i.pinimg.com/564x/4f/96/ee/4f96ee7011d5eb459a6dacb49c5f09aa.jpg" alt="Choclate Chip Cookies"/>
+        <img className="homeimages" src="https://data.whicdn.com/images/317268829/original.jpg" alt="Cheesecake"/>
         </div>
     </div>
   );
