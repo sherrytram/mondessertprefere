@@ -1,47 +1,84 @@
 .sidenav {
     height: 100%;  
-    width: 100px;  
+    width: 200px;  
     position: fixed; 
     z-index: 1; 
     top: 0; 
     left: 0; 
-    background-color: black; 
-    transition: .5s ease; 
+    background-color: rgba(202, 178, 155, 0.945); 
     overflow-x: hidden; 
     padding-top: 20px; 
     display: flex; 
     flex-direction: column; 
     align-items: left;
+    opacity: 100%;
 }
 
 .link {
     color: white;
     text-decoration: none;
     font-size: 20px;
-    padding-left: 15px;
+    padding-left: 20px;
+    padding-top: 10px;
     padding-bottom: 30px;
+    cursor: pointer;
 }
 
 .link:hover {
-    color: lightgray;
+    color:  hsla(30, 10%, 66%, 0.855);
 }
 
 .title {
-    margin-left: 150px;
+    margin-left: 250px;
     margin-top: 80px;
 }
 
 .description {
-    margin-left: 150px;
+    margin-left: 250px;
     font-size: 20px;
 }
 
 .navbuttons {
-    margin-left: 150px;
+    border-color: none;
+    color: black;
+    height: 60px;
+    width: 190px;
+    background-color: rgb(212, 201, 188);
+    margin-top: 50px;
 }
 
+.navbuttons:hover {
+    cursor: pointer;
+    background-color:  hsla(30, 10%, 66%, 0.855);
+}
+
+.buttondiv {
+    margin-left: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
 .homeimages {
-    height: 225px;
-    width: 225px;
+    height: 200px;
+    width: 200px;
     margin-left: 150px;
+    margin-top: 30px;
+
+}
+
+.welcometext {
+    width: 70%;
+    
+}
+
+.welcomeimages {
+    width: 30%;
+    
+}
+
+.App {
+    width: 100%;
+    height: auto;
+    display: inline-flex;
 }

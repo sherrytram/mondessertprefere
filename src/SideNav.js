@@ -1,14 +1,15 @@
 import React from "react";
 import "./App.css";
 
-const SideNav = (props) => {
 
+
+const SideNav = (props) => {
 return (
-<div className="sidenav" style={{width: props.width}}>
-   <a className="link" href="/app.js/">home</a>
-   <a className="link" href="/recipe1/">01</a>
-   <a className="link" href="/recipe2/">02</a>
-   <a className="link" href="/recipe3">03</a>
+<div className="sidenav">
+   <a className="link">Home</a>
+   <a className="link">Recipe 01</a>
+   <a className="link">Recipe 02</a>
+   <a className="link">Recipe 03</a>
 </div>
  );
 };
