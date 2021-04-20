@@ -14,10 +14,10 @@ export default function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/"><Home/></Route>
         <Route exact path="/recipe1"><Recipe1/></Route>
         <Route exact path="/recipe2"><Recipe2/></Route>
-        <Route exact path="/recipe2"><Recipe3/></Route>
+        <Route exact path="/recipe3"><Recipe3/></Route>
+        <Route path="/"><Home/></Route>
       </Switch>
     </Router>
   )
