@@ -22,6 +22,7 @@ function Recipe2() {
       <img className="recipeimg"src="https://i.pinimg.com/564x/4f/96/ee/4f96ee7011d5eb459a6dacb49c5f09aa.jpg" alt="Choclate Chip Cookies"/>
       </div>
       </div>
+      <div className="ingredientsubtitle">
     <div className="ingredientlist">
       <h3 className="ingredienttitle">Ingredients and Materials</h3>
       <div className="ingredienttext">
@@ -38,7 +39,7 @@ function Recipe2() {
       <ul>- parchement paper</ul>
       </div>
     </div>
-    <div>
+    <div className="instructions">
     <h3>Intructions</h3>
     <ul>01. Preheat oven to 350F degrees</ul>
     <ul>02. In a large bowl, cream together the butter, white sugar, and brown sugar till smooth</ul>
@@ -50,6 +51,7 @@ function Recipe2() {
     <ul>08. Let bake for 10 min or until edges are browned</ul>
   </div>
   <p>Enjoy!</p>
+  </div>
   </div>
     
   );

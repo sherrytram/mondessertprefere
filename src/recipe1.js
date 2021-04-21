@@ -25,13 +25,13 @@ export default function Recipe1() {
     <div className="ingredientlist">
       <h3 className="ingredienttitle">Ingredients and Materials</h3>
       <div className="ingredienttext">
-      <h4>Coffee Ganache</h4>
+      <h4 className="ingredientsubtitle">Coffee Ganache</h4>
       <ul>- 66.67g of white chocolate chips</ul>
       <ul>- 50g heavy cream</ul>
       <ul>- 13.33g unsalted butter (melted)</ul>
       <ul>- 0.33tbsp of instant coffee</ul>
       
-      <h4>Coffee Macarons</h4>
+      <h4 className="ingredientsubtitle">Coffee Macarons</h4>
       <ul>- 70.67g almond flour</ul>
       <ul>- 70.67g powdered sugar</ul>
       <ul>- 57.33g egg whites</ul>
@@ -40,7 +40,7 @@ export default function Recipe1() {
       <ul>- 78.67g granulated sugar</ul>
       <ul>- 52.67g water</ul>
 
-      <h4>Equipment</h4>
+      <h4 className="ingredientsubtitle">Equipment</h4>
       <ul>- 18inch pastry bag</ul>
       <ul>- Round pastry tip</ul>
       <ul>- Baking Sheet (15" x 21")</ul>

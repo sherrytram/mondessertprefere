@@ -25,13 +25,13 @@ function Recipe3() {
       <div className="ingredientlist">
         <h3 className="ingredienttitle">Ingredients and Materials</h3>
         <div className="ingredienttext">
-        <h4>Graham Cracker Crust</h4>
+        <h4 className="ingredientsubtitle">Graham Cracker Crust</h4>
         <ul>- 1 1/2cups of graham cracker crumbs</ul>
         <ul>- 2tbsp of sugar</ul>
         <ul>- 1tbsp of brown sugar</ul>
         <ul>- 7tbsp of melted butter</ul>
       
-        <h4>Cheesecake</h4>
+        <h4 className="ingredientsubtitle">Cheesecake</h4>
         <ul>- 32oz of cream cheese softened to room temperature</ul>
         <ul>- 1 cup of sugar</ul>
         <ul>- 2/3 cups of sour cream</ul>
@@ -39,7 +39,7 @@ function Recipe3() {
         <ul>- 1/8 teaspoon of salt</ul>
         <ul>- 4 large eggs, room temp, lightly beaten</ul>
 
-        <h4>Materials</h4>
+        <h4 className="ingredientsubtitle">Materials</h4>
         <ul>- 9" springform pan</ul>
         <ul>- mixing bowls</ul>
         </div>
