@@ -12,7 +12,7 @@ import SideNav from "./SideNav"
 export default function Recipe1() {
   return (
     <div className="recipe1">
-    <SideNav/>
+    <SideNav />
     <div className="recipeheader">
     <div className="recipetext">
     <h1 className="recipetitle">Coffee Macarons</h1>
@@ -47,7 +47,7 @@ export default function Recipe1() {
       <ul>- Parchment Paper or Silicone Mat</ul>
       </div>
     </div>
-    <div>
+    <div className="instructions1">
       <h3>Instructions</h3>
       <h4>Coffee Ganache</h4>
       <ul>01. Add 66.67g of white chocolate chips to a meduim bowl</ul>
@@ -81,7 +81,6 @@ export default function Recipe1() {
     <ul>03. Refrigerate in an airtight container for 24hours before consuming</ul>
     <ul>04. Wrap each macaron shell in plastic wrap if you do not plan on eating right away and freeze until ready to eat. Make sure to bring the macarons to room temp. before consuming</ul>
     </div>
-    <p>Enjoy! </p>
     </div>
   );
 }

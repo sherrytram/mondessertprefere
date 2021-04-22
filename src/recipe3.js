@@ -44,7 +44,7 @@ function Recipe3() {
         <ul>- mixing bowls</ul>
         </div>
       </div>
-      <div>
+      <div className="instructions3">
         <h3>Instructions</h3>
         <h4>Graham Cracker Crust</h4>
         <ul>01. Preheat oven to 325F degrees</ul>
@@ -62,7 +62,6 @@ function Recipe3() {
         <ul>07. Remove from oven and cool for 10 mintues. After the 10mins, loosen crust with knife to prevent cracks later on when your cheesecake cools and shrinks</ul>
         <ul>08. Allow cheesecake to cool for another 1-2 hours at room temp. Transfer to refrigerator and let cool for another 6 hours/overnight before consuming</ul>
       </div>
-      <p>Enjoy!</p>
     </div>
   );
 }
