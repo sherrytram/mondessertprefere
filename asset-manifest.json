@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mondessertprefere/static/css/main.5877465a.chunk.css",
-    "main.js": "/mondessertprefere/static/js/main.2f27e375.chunk.js",
-    "main.js.map": "/mondessertprefere/static/js/main.2f27e375.chunk.js.map",
+    "main.js": "/mondessertprefere/static/js/main.fd575cdc.chunk.js",
+    "main.js.map": "/mondessertprefere/static/js/main.fd575cdc.chunk.js.map",
     "runtime-main.js": "/mondessertprefere/static/js/runtime-main.cd3fdf86.js",
     "runtime-main.js.map": "/mondessertprefere/static/js/runtime-main.cd3fdf86.js.map",
-    "static/js/2.e460edd2.chunk.js": "/mondessertprefere/static/js/2.e460edd2.chunk.js",
-    "static/js/2.e460edd2.chunk.js.map": "/mondessertprefere/static/js/2.e460edd2.chunk.js.map",
+    "static/js/2.28b2974a.chunk.js": "/mondessertprefere/static/js/2.28b2974a.chunk.js",
+    "static/js/2.28b2974a.chunk.js.map": "/mondessertprefere/static/js/2.28b2974a.chunk.js.map",
     "static/js/3.a87ebedc.chunk.js": "/mondessertprefere/static/js/3.a87ebedc.chunk.js",
     "static/js/3.a87ebedc.chunk.js.map": "/mondessertprefere/static/js/3.a87ebedc.chunk.js.map",
     "index.html": "/mondessertprefere/index.html",
     "static/css/main.5877465a.chunk.css.map": "/mondessertprefere/static/css/main.5877465a.chunk.css.map",
-    "static/js/2.e460edd2.chunk.js.LICENSE.txt": "/mondessertprefere/static/js/2.e460edd2.chunk.js.LICENSE.txt"
+    "static/js/2.28b2974a.chunk.js.LICENSE.txt": "/mondessertprefere/static/js/2.28b2974a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd3fdf86.js",
-    "static/js/2.e460edd2.chunk.js",
+    "static/js/2.28b2974a.chunk.js",
     "static/css/main.5877465a.chunk.css",
-    "static/js/main.2f27e375.chunk.js"
+    "static/js/main.fd575cdc.chunk.js"
   ]
 }
