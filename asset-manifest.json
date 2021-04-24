@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mondessertprefere/static/css/main.53ceb149.chunk.css",
+    "main.css": "/mondessertprefere/static/css/main.a2905507.chunk.css",
     "main.js": "/mondessertprefere/static/js/main.d96b4bb8.chunk.js",
     "main.js.map": "/mondessertprefere/static/js/main.d96b4bb8.chunk.js.map",
     "runtime-main.js": "/mondessertprefere/static/js/runtime-main.cd3fdf86.js",
@@ -10,13 +10,13 @@
     "static/js/3.a87ebedc.chunk.js": "/mondessertprefere/static/js/3.a87ebedc.chunk.js",
     "static/js/3.a87ebedc.chunk.js.map": "/mondessertprefere/static/js/3.a87ebedc.chunk.js.map",
     "index.html": "/mondessertprefere/index.html",
-    "static/css/main.53ceb149.chunk.css.map": "/mondessertprefere/static/css/main.53ceb149.chunk.css.map",
+    "static/css/main.a2905507.chunk.css.map": "/mondessertprefere/static/css/main.a2905507.chunk.css.map",
     "static/js/2.4c801266.chunk.js.LICENSE.txt": "/mondessertprefere/static/js/2.4c801266.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd3fdf86.js",
     "static/js/2.4c801266.chunk.js",
-    "static/css/main.53ceb149.chunk.css",
+    "static/css/main.a2905507.chunk.css",
     "static/js/main.d96b4bb8.chunk.js"
   ]
 }
