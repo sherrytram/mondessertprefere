@@ -6,7 +6,6 @@ import {
   useHistory,
   Link,
 } from "react-router-dom";
-import SideNav from './SideNav';
 import Recipe1 from './recipe1';
 import Recipe2 from './recipe2';
 import Recipe3 from './recipe3';

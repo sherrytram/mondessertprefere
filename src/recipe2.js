@@ -7,12 +7,17 @@ import {
   useHistory
 } from "react-router-dom";
 import React from "react";
-import SideNav from "./SideNav";
+
 
 function Recipe2() {
   return (
     <div className="recipe2">
-      <SideNav />
+      <div className="sidenav">
+      <Link to="/mondessertprefere" className="link">Home</Link>
+      <Link to="/recipe1" className="link">Recipe 01</Link>
+      <Link to="/recipe2" className="link">Recipe 02</Link>
+      <Link to="/recipe3" className="link">Recipe 03</Link>
+      </div>
       <div className="recipeheader">
       <div className="recipetext">
       <h1 className="recipetitle">Chocolate Chip Cookies</h1>
